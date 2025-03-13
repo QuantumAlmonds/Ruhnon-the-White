@@ -1,0 +1,21 @@
+# The Shrouded Sanctuary
+
+## Location
+Deep within the Underdark, several miles beneath the Vigilant Bastion
+
+## Description
+Deep within the Underdark, several miles beneath the Vigilant Bastion but in the opposite direction from the Luminous Abyss, lies a sprawling network of caves and chambers known as the Shrouded Sanctuary. This hidden realm is built around an ancient temple complex of unknown origin, its obsidian walls etched with symbols that distort memory and perception. The Shrouded Sanctuary serves as the headquarters for the Order of Veiled Truth - a growing congregation of failed paladin initiates who never returned from their "Descent and Ascent" ritual, united by their shared refusal to confront their pasts.
+
+## Key Features
+- The Hall of Comfortable Lies: A grand chamber where magical mists create illusions showing each member the version of themselves they wish to believe is true
+- The Memory Pools: Dark, still pools that can extract painful memories and store them in crystalline form
+- The Veil Forge: A magical smithy where weapons and armor are created that can induce doubt, confusion and self-deception
+- Clouded Mirror Archives: A library containing distorted histories and prophecies, each written to justify the sanctuary's philosophy
+- The Shroud Throne: A massive chair carved from shadow-stone, occupied by the Veiled Sovereign - the first and most powerful of the fallen initiates
+
+## Potential Hooks
+- Villagers report family members disappearing after seeking "memory healing" from strange travelers
+- Cloudy crystals begin appearing in markets with strange emotional effects
+- A paladin from the Vigilant Bastion begins behaving oddly after returning from a mission near the ravine
+- Reports of entire communities becoming strangely apathetic and resistant to change
+- A high-ranking member of the Order of Veiled Truth is discovered to be the long-lost child of a renowned paladin commander 

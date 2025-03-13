@@ -1,0 +1,18 @@
+# The Hall of Reflected Selves
+
+## Location
+Central district of Luminspire (The Sprawling Metropolis)
+
+## Description
+A grand academy and library built with enchanted mirrors for walls. Each mirror shows not just reflections but alternate versions of the viewer—who they could become. The hall serves as both a center of learning and a place of meditation where citizens come to contemplate their potential. The architecture constantly shifts and changes as if the building itself is seeking its true form. Magical tomes within can only be read by those who acknowledge specific personal truths.
+
+## Key Features
+- Enchanted mirrors showing alternate potential selves
+- Self-transforming architecture that never maintains the same form for long
+- Magical tomes that require personal truth acknowledgment to be read
+- Meditation chambers where people contemplate their potential
+
+## Potential Hooks
+- A valuable tome has been stolen by someone who somehow bypassed its truth requirements
+- A student has become trapped in one of the mirrors, living as an alternate version of themselves
+- The building has begun transforming more rapidly than ever before, and some believe it's finally found its true form 

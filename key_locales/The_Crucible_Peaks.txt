@@ -1,0 +1,20 @@
+# The Crucible Peaks
+
+## Location
+Mountain range northeast of Luminspire
+
+## Description
+A range of mountains with veins of magical ore that pulses with energy. The peaks are home to colonies of storm giants who have developed a philosophy of physical and spiritual ascension. At the highest point stands the Anvil of Identity - a magical forge where weapons and artifacts can be created that grow in power as their wielder overcomes personal challenges. The mountains experience magical storm seasons where lightning strikes can temporarily imbue ordinary objects with sentience and purpose.
+
+## Key Features
+- Veins of pulsing magical ore throughout the mountains
+- Storm giant colonies with philosophy of ascension
+- The Anvil of Identity magical forge
+- Seasonal magical storms that create sentient objects
+- Artifacts that grow with their wielder's personal growth
+
+## Potential Hooks
+- A particularly violent storm season has created an army of sentient objects with unclear intentions
+- The storm giants are seeking a hero to retrieve a fragment of the Anvil that was stolen
+- A weapon forged at the Anvil has been corrupting its wielder instead of growing with them
+- Miners have discovered a new type of ore that seems to respond to emotional states 

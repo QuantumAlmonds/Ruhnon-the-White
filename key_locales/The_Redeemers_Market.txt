@@ -1,0 +1,18 @@
+# The Redeemer's Market
+
+## Location
+Heart of Luminspire (The Sprawling Metropolis)
+
+## Description
+A vast, labyrinthine marketplace at the city's heart where merchants sell not just goods but also "second chances." Stalls run by reformed criminals sell wares that symbolize their new lives. The market features magical fountains that can reveal glimpses of one's "true self" and is known for its famous "Identity Lanterns" - magical artifacts that glow brighter when the holder speaks their authentic truth. It's said those who find their purpose often see their lantern's light change color to match their destiny.
+
+## Key Features
+- Magical truth-revealing fountains
+- Identity Lanterns that respond to authentic speech
+- Stalls run by reformed criminals selling symbolic items
+- Labyrinthine layout that seems to guide visitors to what they truly seek
+
+## Potential Hooks
+- A merchant claims their Identity Lantern has been stolen, but it may have simply stopped responding to them
+- Strange creatures have been emerging from the fountains at night
+- A rare "Destiny Lantern" is rumored to be hidden somewhere in the market 

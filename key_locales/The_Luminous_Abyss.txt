@@ -1,0 +1,20 @@
+# The Luminous Abyss
+
+## Location
+Deep within the underdark beneath the ravine
+
+## Description
+Deep within the underdark lies a vast cavern where bioluminescent fungi and crystals create a false sky of ghostly light. This underground realm is home to a society of exiles who have created a culture based on radical honesty - in the darkness, they believe, all pretenses must be abandoned. The cavern houses the Well of Essence - a pool of liquid magical energy that, when drunk, strips away all magical disguises and forces one to confront their true self. The residents have developed unique magic that draws power from self-acceptance rather than external sources. Ruhnon occasionally visits to study their techniques, though few surface dwellers know of this connection.
+
+## Key Features
+- Vast cavern with bioluminescent fungi and crystals creating a false sky
+- Society of exiles practicing radical honesty
+- The Well of Essence that reveals one's true self
+- Unique magic based on self-acceptance
+- Secret connection to Ruhnon who studies their magic
+
+## Potential Hooks
+- The Well of Essence has begun to dry up, threatening the exiles' way of life
+- A surface dweller has discovered Ruhnon's connection to the exiles and is blackmailing him
+- The exiles have discovered a deeper cavern that seems to contain an even more primal form of truth magic
+- A faction among the exiles believes it's time to bring their philosophy to the surface world 

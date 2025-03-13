@@ -1,0 +1,21 @@
+# Ruhnon's White Tower
+
+## Location
+Small island offshore of Luminspire, connected by a tidal causeway
+
+## Description
+A gleaming spire of alabaster and opal that rises from a small island just offshore, connected to the mainland by a causeway that appears only at certain tides. The tower houses Ruhnon's extensive magical research and serves as a beacon for lost ships, emitting a distinctive white light visible for miles. The lower levels contain training facilities where Ruhnon mentors promising mages, while the upper chambers house portals to other planes. The tower's foundations extend deep underwater, where Ruhnon studies the magical properties of oceanic creatures. The tower is known to periodically "shed" its outer layers, emerging more brilliant and transformed - a physical manifestation of Ruhnon's philosophy of constant self-renewal.
+
+## Key Features
+- Tidal causeway that appears and disappears with the tides
+- Magical beacon that guides lost ships
+- Training facilities for apprentice mages
+- Portals to other planes in the upper chambers
+- Underwater foundations housing oceanic magical research
+- Self-renewing architecture that periodically sheds its outer layers
+
+## Potential Hooks
+- The tower's beacon has begun to flicker and ships are getting lost
+- Strange creatures have been seen emerging from the underwater sections
+- A portal in the upper chamber has become unstable, causing dimensional anomalies
+- The tower has begun its shedding cycle prematurely, suggesting something is wrong 

@@ -1,0 +1,20 @@
+# The Vigilant Bastion
+
+## Location
+Edge of the great ravine to the underdark
+
+## Description
+Perched at the very edge of the great ravine, this fortress-monastery houses the Order of the Reclaimed Light - paladins dedicated to protecting the upper world from threats that might emerge from below. The order was founded by a paladin who fell to darkness but found redemption through sacrifice. The architecture combines defensive fortifications with cathedral-like spaces of contemplation. New initiates must undergo the "Descent and Ascent" - a ritual journey partway into the underdark and back, facing their inner darkness before being accepted. The Bastion's walls are inscribed with the names of all who have fallen and been redeemed, and their shields are displayed in the Hall of Second Dawns.
+
+## Key Features
+- Fortress-monastery combining defensive and contemplative architecture
+- Order of the Reclaimed Light paladins
+- "Descent and Ascent" initiation ritual into the underdark
+- Wall of inscribed names of the fallen and redeemed
+- Hall of Second Dawns displaying shields of redeemed paladins
+
+## Potential Hooks
+- An initiate has not returned from their Descent and Ascent ritual - this happens when the initiate refuses to acknowledge their past. These get lost in the darkness and many of them find each other... and become fallen to an order of darkness and cloudy vision.
+- A name has mysteriously been erased from the wall of the redeemed
+- The order's founder has returned with warnings of a new darkness rising
+- Strange lights have been seen deep in the ravine, and paladins sent to investigate have not returned 
